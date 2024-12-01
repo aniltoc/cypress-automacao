@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cypress": "^13.16.0"
+  },
+  "name": "cypress-iniciante",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0"
+  },
+  "description": ""
+}
