@@ -82,7 +82,7 @@ const user_data = require('../fixtures/desafio.json')
             registerPage.sucessRegister(name)
     
             cy.get('.swal2-confirm')
-                .click()
+                .click() //comentario pra subir
         })
     })
 // })
